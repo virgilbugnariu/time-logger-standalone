@@ -1,6 +1,6 @@
 [package]
 name = "time-logger"
-version = "0.1.0"
+version = "0.1.1"
 description = "Time logger desktop app"
 authors = ["Virgil Bugnariu"]
 license = ""
