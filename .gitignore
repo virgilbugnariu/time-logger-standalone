@@ -1,0 +1,6 @@
+node_modules
+.idea
+.DS_Store
+
+# Company-specific seed data (restore it via the app), not for the public repo
+LEGACY_DATA.json
